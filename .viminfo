@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1655661816,,"wq"
+|2,0,1655736924,,"wq"
 :wq filel
 |2,0,1655650104,,"wq filel"
 :WQ
@@ -31,16 +31,34 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/filel
-|4,48,2,0,1655661816,"~/filel"
+'0  8  0  ~/.git/MERGE_MSG
+|4,48,8,0,1655736924,"~/.git/MERGE_MSG"
+'1  2  0  ~/filel
+|4,49,2,0,1655661816,"~/filel"
 
 # Jumplist (newest first):
+-'  8  0  ~/.git/MERGE_MSG
+|4,39,8,0,1655736924,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1655736826,"~/.git/MERGE_MSG"
+-'  2  0  ~/filel
+|4,39,2,0,1655661816,"~/filel"
 -'  2  0  ~/filel
 |4,39,2,0,1655661816,"~/filel"
 -'  1  0  ~/filel
 |4,39,1,0,1655661792,"~/filel"
+-'  1  0  ~/filel
+|4,39,1,0,1655661792,"~/filel"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1655736919	0
+	"	8	0
+	^	8	0
+	.	7	6
+	+	1	0
+	+	7	6
 
 > ~/filel
 	*	1655661810	0
